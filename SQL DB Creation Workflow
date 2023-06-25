@@ -1,0 +1,19 @@
+
+
+1. First map out all the fields on google sheets.
+- New sheet for each table
+- Will be doing this step multiple times as you normalize the data
+
+Be sure to label unique key that will serve as primary key if none of the fields are unique
+
+This is just to plan out and think through.
+
+In the field this will be done through multiple meetings that identify who information the stakeholders want collected, or outcomes they they need fm the data which will determine what information is needed.
+
+2. Populate one or a couple entries in every single table.
+- add in fields you missed or you could need
+- normalize and create new tables to create streamlined process
+
+3. Quick database diagrams (quickDBD)
+- diagram database
+- add any fields and tables you need to make db as simple as possible.
